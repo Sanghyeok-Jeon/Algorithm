@@ -1,2 +1,6 @@
 # Algorithm
-Algorithm Practice
+---
+
+### Python
+
+### Java
