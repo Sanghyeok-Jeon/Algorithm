@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('4371.txt', 'r')
+sys.stdin = open('SWEA_4371.txt', 'r')
 
 T = int(input())
 
