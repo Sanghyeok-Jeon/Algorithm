@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('BAEKJOON_2667.txt', 'r')
+sys.stdin = open('BOJ_2667.txt', 'r')
 
 def DFS(i, j):
     global temp_group

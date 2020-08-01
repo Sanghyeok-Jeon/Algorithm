@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('BAEKJOON_6603.txt', 'r')
+sys.stdin = open('BOJ_6603.txt', 'r')
 
 def DFS(x, count):
     if count == 6:

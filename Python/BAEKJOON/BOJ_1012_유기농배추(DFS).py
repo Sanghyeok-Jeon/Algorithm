@@ -1,6 +1,6 @@
 import sys
 sys.setrecursionlimit(50000)
-sys.stdin = open('BAEKJOON_1012.txt', 'r')
+sys.stdin = open('BOJ_1012.txt', 'r')
 
 def DFS(i, j):
     field[i][j] = 0

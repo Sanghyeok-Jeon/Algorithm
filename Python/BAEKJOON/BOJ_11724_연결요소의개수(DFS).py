@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('BAEKJOON_11724.txt', 'r')
+sys.stdin = open('BOJ_11724.txt', 'r')
 sys.setrecursionlimit(10000)
 
 def DFS(i):

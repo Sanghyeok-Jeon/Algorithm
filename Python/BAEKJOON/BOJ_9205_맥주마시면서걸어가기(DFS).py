@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('BAEKJOON_9205.txt', 'r')
+sys.stdin = open('BOJ_9205.txt', 'r')
 
 def DFS(x, y):
     global end_x, end_y, feeling, possible
