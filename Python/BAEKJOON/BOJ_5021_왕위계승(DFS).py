@@ -1,12 +1,13 @@
 import sys
 sys.stdin = open('BOJ_5021.txt', 'r')
 
-def DFS(parent ,child, last_King):
+def DFS(child):
+    global last_King
     if child == last_King:
         return 1
     if child not in parent.keys():
         return 0
-    return DFS(parent, parent[child][0], last_King)/2 + DFS(parent, parent[child][1], last_King)/2
+    return DFS(parent[child][0])/2 + DFS(parent[child][1])/2
 
 N, M = map(int, input().split())
 maxBrood = 0
@@ -18,7 +19,7 @@ for _ in range(N):
     parent[child[0]] = [child[1], child[2]]
 for _ in range(M):
     child = input()
-    temp = DFS(parent, child, last_King)
+    temp = DFS(child)
     if temp > maxBrood:
         next_King = child
         maxBrood = temp
