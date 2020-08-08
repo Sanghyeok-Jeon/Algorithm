@@ -1,5 +1,7 @@
-.idea/
+#folder
+/.idea/
 
+#file
 KEPCO_Resume.py
 lotto_numbers.py
 lotto_numbers.txt
