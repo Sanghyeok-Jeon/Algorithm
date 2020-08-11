@@ -5,14 +5,12 @@ T = int(input())
 
 for tc in range(T):
     N = int(input())
-    data = [list(map(int, input().split())) for _ in range(N)]
-    dp = [0] * 20
+    dp = [0] * 21
 
-    for i in range(N):
-        if dp[i] > dp[i+1]:
-            dp[i+1] = dp[i]
+    for i in range(1, N+1):
+        T, P = map(int, input().split())
+        dp[i+1] = max(dp[i], dp[i+1])  # 이전까지의 페이가 더 높으면 건너뛴다
+        if i + T <= N+1:
+            dp[i + T] = max(dp[i] + P, dp[i + T])
 
-        if dp[i + data[i][0]] < dp[i] + data[i][1]:
-            dp[i + data[i][0]] = dp[i] + data[i][1]
-
-    print(dp[N])
+    print(max(dp))
