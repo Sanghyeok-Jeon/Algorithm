@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('BOJ_1890.txt', 'r')
+sys.stdin = open('BOJ_5566.txt', 'r')
 
 N, M = map(int, input().split())
 orders = [int(input()) for _ in range(N)]
