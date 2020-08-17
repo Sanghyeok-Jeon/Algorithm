@@ -29,18 +29,18 @@ def checkImpossible(i, j):
             return 0
     return 1
 
-def DFS(i, cnt):
+def DFS(cnt):
     global min_cost
 
     if cnt == 3:
         min_cost = min(min_cost, cost())
         return
 
-    for m in range(i, N-1):
+    for m in range(1, N-1):
         for n in range(1, N-1):
             if checkImpossible(m, n):
                 select(m, n)
-                DFS(i, cnt+1)
+                DFS(cnt+1)
                 cancel(m, n)
 
 N = int(input())
@@ -50,6 +50,6 @@ min_cost = 201 * 5 * 3
 di = [1, -1, 0, 0, 0]
 dj = [0, 0, 1, -1, 0]
 
-DFS(1, 0)
+DFS(0)
 
 print(min_cost)
