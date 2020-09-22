@@ -4,18 +4,17 @@ import collections
 
 def BFS():
     while q:
-        for _ in range(len(q)):
-            r, c, cnt = q.popleft()
-            if r == r2 and c == c2:
-                return cnt
+        r, c, cnt = q.popleft()
+        if r == r2 and c == c2:
+            return cnt
 
-            for mode in range(6):
-                nr = r + dr[mode]
-                nc = c + dc[mode]
-                if 0 <= nr < N and 0 <= nc < N:
-                    if visited[nr][nc] == 0:
-                        visited[nr][nc] = 1
-                        q.append((nr, nc, cnt+1))
+        for mode in range(6):
+            nr = r + dr[mode]
+            nc = c + dc[mode]
+            if 0 <= nr < N and 0 <= nc < N:
+                if visited[nr][nc] == 0:
+                    visited[nr][nc] = 1
+                    q.append((nr, nc, cnt+1))
 
     return -1
 
