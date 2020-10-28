@@ -3,16 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5b353ad4-1167-4d9c-8f17-7559b767548a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/BAEKJOON/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/BAEKJOON/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/BAEKJOON/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/BAEKJOON/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/SWEA/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/SWEA/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/SWEA/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/SWEA/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/SWEA/src/SWEA_2072_홀수만더하기.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.BOJ_1149_RGB거리">
+  <component name="RunManager" selected="Python.BOJ_15489_파스칼삼각형">
     <configuration name="BOJ_1149_RGB거리" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_15992_123더하기7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ_15489_파스칼삼각형" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +108,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/BAEKJOON/BOJ_15992_123더하기7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/BAEKJOON/BOJ_15489_파스칼삼각형.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ_15489_파스칼삼각형" />
         <item itemvalue="Python.BOJ_1149_RGB거리" />
         <item itemvalue="Python.BOJ_13301_타일장식물" />
         <item itemvalue="Python.BOJ_11660_구간합구하기5" />
         <item itemvalue="Python.BOJ_16195_123더하기9" />
-        <item itemvalue="Python.BOJ_15992_123더하기7" />
       </list>
     </recent_temporary>
   </component>
@@ -172,25 +162,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1256" height="273" key="GridCell.Tab.0.bottom" timestamp="1603759694307">
+    <state width="1256" height="270" key="GridCell.Tab.0.bottom" timestamp="1603844061574">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1256" height="273" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1603759694307" />
+    <state width="1256" height="270" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1603844061574" />
     <state width="1256" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602943287351" />
-    <state width="1256" height="273" key="GridCell.Tab.0.center" timestamp="1603759694307">
+    <state width="1256" height="270" key="GridCell.Tab.0.center" timestamp="1603844061574">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1256" height="273" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1603759694307" />
+    <state width="1256" height="270" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1603844061574" />
     <state width="1256" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602943287351" />
-    <state width="1256" height="273" key="GridCell.Tab.0.left" timestamp="1603759694307">
+    <state width="1256" height="270" key="GridCell.Tab.0.left" timestamp="1603844061574">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1256" height="273" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1603759694307" />
+    <state width="1256" height="270" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1603844061574" />
     <state width="1256" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602943287351" />
-    <state width="1256" height="273" key="GridCell.Tab.0.right" timestamp="1603759694307">
+    <state width="1256" height="270" key="GridCell.Tab.0.right" timestamp="1603844061574">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1256" height="273" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1603759694307" />
+    <state width="1256" height="270" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1603844061574" />
     <state width="1256" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602943287351" />
     <state x="1421" y="162" key="SettingsEditor" timestamp="1602734069775">
       <screen x="0" y="0" width="2560" height="1040" />
