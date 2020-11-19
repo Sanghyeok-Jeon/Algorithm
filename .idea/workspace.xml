@@ -32,8 +32,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.BOJ_1001_A-B">
     <configuration name="BOJ_1001_A-B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+  <component name="RunManager" selected="Python.BOJ_1748_수이어쓰기1">
+    <configuration name="BOJ_1748_수이어쓰기1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> cc4fedbfbe950c2c21adf55b33990b07c88511ed
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -45,7 +50,11 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/BAEKJOON/BOJ_1001_A-B.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/BAEKJOON/BOJ_1748_수이어쓰기1.py" />
+>>>>>>> cc4fedbfbe950c2c21adf55b33990b07c88511ed
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,11 +149,18 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.BOJ_1001_A-B" />
+=======
+>>>>>>> cc4fedbfbe950c2c21adf55b33990b07c88511ed
         <item itemvalue="Python.BOJ_1748_수이어쓰기1" />
         <item itemvalue="Python.BOJ_6359_만취한상범" />
         <item itemvalue="Python.BOJ_4153_직각삼각형" />
         <item itemvalue="Python.BOJ_2581_소수" />
+<<<<<<< HEAD
+=======
+        <item itemvalue="Python.BOJ_4344_평균은넘겠지" />
+>>>>>>> cc4fedbfbe950c2c21adf55b33990b07c88511ed
       </list>
     </recent_temporary>
   </component>
@@ -162,6 +178,7 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
     <state width="1256" height="264" key="GridCell.Tab.0.bottom" timestamp="1605715093657">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -181,6 +198,27 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1256" height="264" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1605715093656" />
+=======
+    <state width="1256" height="267" key="GridCell.Tab.0.bottom" timestamp="1605610158684">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1256" height="267" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1605610158684" />
+    <state width="1256" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604723354063" />
+    <state width="1256" height="267" key="GridCell.Tab.0.center" timestamp="1605610158684">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1256" height="267" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1605610158684" />
+    <state width="1256" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604723354063" />
+    <state width="1256" height="267" key="GridCell.Tab.0.left" timestamp="1605610158683">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1256" height="267" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1605610158683" />
+    <state width="1256" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604723354063" />
+    <state width="1256" height="267" key="GridCell.Tab.0.right" timestamp="1605610158684">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1256" height="267" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1605610158684" />
+>>>>>>> cc4fedbfbe950c2c21adf55b33990b07c88511ed
     <state width="1256" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604723354063" />
     <state x="1421" y="162" key="SettingsEditor" timestamp="1602734069775">
       <screen x="0" y="0" width="2560" height="1040" />
