@@ -32,8 +32,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.BOJ_3053_택시기하학">
-    <configuration name="BOJ_1001_A-B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.BOJ_18247_겨울왕국티켓예매">
+    <configuration name="BOJ_18247_겨울왕국티켓예매" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -45,7 +45,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/BAEKJOON/BOJ_1001_A-B.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/BAEKJOON/BOJ_18247_겨울왕국티켓예매.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ_18247_겨울왕국티켓예매" />
         <item itemvalue="Python.BOJ_3053_택시기하학" />
         <item itemvalue="Python.BOJ_3360_깡총깡총(보류)" />
         <item itemvalue="Python.BOJ_3062_수뒤집기" />
         <item itemvalue="Python.BOJ_1964_오각형오각형오각형" />
-        <item itemvalue="Python.BOJ_1001_A-B" />
       </list>
     </recent_temporary>
   </component>
@@ -162,25 +162,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1256" height="263" key="GridCell.Tab.0.bottom" timestamp="1606144852404">
+    <state x="1618" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606311781533">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1256" height="263" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1606144852404" />
+    <state x="1618" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1606311781533" />
+    <state width="1256" height="263" key="GridCell.Tab.0.bottom" timestamp="1606312189754">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1256" height="263" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1606312189754" />
     <state width="1256" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605943738553" />
-    <state width="1256" height="263" key="GridCell.Tab.0.center" timestamp="1606144852404">
+    <state width="1256" height="263" key="GridCell.Tab.0.center" timestamp="1606312189754">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1256" height="263" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1606144852404" />
+    <state width="1256" height="263" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1606312189754" />
     <state width="1256" height="264" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605943738553" />
-    <state width="1256" height="263" key="GridCell.Tab.0.left" timestamp="1606144852404">
+    <state width="1256" height="263" key="GridCell.Tab.0.left" timestamp="1606312189753">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1256" height="263" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1606144852404" />
+    <state width="1256" height="263" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1606312189753" />
     <state width="1256" height="264" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605943738553" />
-    <state width="1256" height="263" key="GridCell.Tab.0.right" timestamp="1606144852404">
+    <state width="1256" height="263" key="GridCell.Tab.0.right" timestamp="1606312189754">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1256" height="263" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1606144852404" />
+    <state width="1256" height="263" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1606312189754" />
     <state width="1256" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605943738553" />
     <state x="1421" y="162" key="SettingsEditor" timestamp="1602734069775">
       <screen x="0" y="0" width="2560" height="1040" />
