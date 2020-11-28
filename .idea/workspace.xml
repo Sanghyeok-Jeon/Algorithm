@@ -31,8 +31,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
-  <component name="RunManager" selected="Python.BOJ_1937_욕심쟁이판다">
-    <configuration name="BOJ_11134_쿠키애호가" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.BOJ_11720_숫자의합">
+    <configuration name="BOJ_11720_숫자의합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,7 +44,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/BAEKJOON/BOJ_11134_쿠키애호가.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/BAEKJOON/BOJ_11720_숫자의합.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ_11720_숫자의합" />
         <item itemvalue="Python.BOJ_3053_택시기하학" />
         <item itemvalue="Python.BOJ_1937_욕심쟁이판다" />
         <item itemvalue="Python.BOJ_18247_겨울왕국티켓예매" />
         <item itemvalue="Python.BOJ_15624_피보나치수7" />
-        <item itemvalue="Python.BOJ_11134_쿠키애호가" />
       </list>
     </recent_temporary>
   </component>
@@ -170,25 +170,25 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1618" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1606311781533" />
-    <state width="1256" height="263" key="GridCell.Tab.0.bottom" timestamp="1606398527499">
+    <state width="1256" height="265" key="GridCell.Tab.0.bottom" timestamp="1606563247370">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1256" height="263" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1606398527499" />
+    <state width="1256" height="265" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1606563247370" />
     <state width="1256" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605943738553" />
-    <state width="1256" height="263" key="GridCell.Tab.0.center" timestamp="1606398527499">
+    <state width="1256" height="265" key="GridCell.Tab.0.center" timestamp="1606563247370">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1256" height="263" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1606398527499" />
+    <state width="1256" height="265" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1606563247370" />
     <state width="1256" height="264" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605943738553" />
-    <state width="1256" height="263" key="GridCell.Tab.0.left" timestamp="1606398527498">
+    <state width="1256" height="265" key="GridCell.Tab.0.left" timestamp="1606563247369">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1256" height="263" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1606398527498" />
+    <state width="1256" height="265" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1606563247369" />
     <state width="1256" height="264" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605943738553" />
-    <state width="1256" height="263" key="GridCell.Tab.0.right" timestamp="1606398527499">
+    <state width="1256" height="265" key="GridCell.Tab.0.right" timestamp="1606563247370">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1256" height="263" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1606398527499" />
+    <state width="1256" height="265" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1606563247370" />
     <state width="1256" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605943738553" />
     <state x="421" y="193" key="SettingsEditor" timestamp="1606399278259">
       <screen x="0" y="0" width="2560" height="1040" />
