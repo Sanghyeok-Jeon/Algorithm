@@ -1,18 +1,19 @@
 import sys
 sys.stdin = open('BOJ_1024.txt', 'r')
 
-n, l = map(int, input().split())
-t = 0
-x = -1
-iter = 0
-for i in range(l, 101):
-    t = (i * i - i) / 2
-    if (n - t) % i == 0 and (n - t) // i >= 0:
-        x = (n - t) // i
-        iter = i
+N, L = map(int, sys.stdin.readline().rstrip().split())
+ans = -1
+length = 0
+
+for l in range(L, 101):
+    tmp = l * (l - 1) // 2
+    if not (N - tmp) % l and (N - tmp) // l >= 0:
+        ans = (N - tmp) // l
+        length = l
         break
-if x == -1:
+
+if ans == -1:
     print(-1)
 else:
-    for i in range(iter):
-        print(int(x + i))
+    for i in range(length):
+        print(ans + i, end=' ')
