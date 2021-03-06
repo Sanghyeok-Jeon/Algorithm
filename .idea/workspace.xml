@@ -32,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
-  <component name="RunManager" selected="Python.BOJ_11053_가장긴증가하는부분수열">
+  <component name="RunManager" selected="Python.BOJ_16953_A→B">
     <configuration name="BOJ_11053_가장긴증가하는부분수열" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_2164_카드2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ_16953_A→B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,7 +87,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/BAEKJOON/BOJ_2164_카드2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/BAEKJOON/BOJ_16953_A→B.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ_16953_A→B" />
         <item itemvalue="Python.BOJ_11053_가장긴증가하는부분수열" />
         <item itemvalue="Python.BOJ_9465_스티커" />
         <item itemvalue="Python.BOJ_2407_조합" />
         <item itemvalue="Python.BOJ_15657_N과M(8)" />
-        <item itemvalue="Python.BOJ_2164_카드2" />
       </list>
     </recent_temporary>
   </component>
@@ -178,26 +178,26 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1600" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1607001827821" />
-    <state width="936" height="259" key="GridCell.Tab.0.bottom" timestamp="1614950910748">
+    <state width="936" height="259" key="GridCell.Tab.0.bottom" timestamp="1615033116265">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1256" height="260" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1608725186388" />
-    <state width="936" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614950910748" />
-    <state width="936" height="259" key="GridCell.Tab.0.center" timestamp="1614950910748">
+    <state width="936" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615033116265" />
+    <state width="936" height="259" key="GridCell.Tab.0.center" timestamp="1615033116265">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1256" height="260" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1608725186388" />
-    <state width="936" height="259" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614950910748" />
-    <state width="936" height="259" key="GridCell.Tab.0.left" timestamp="1614950910748">
+    <state width="936" height="259" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615033116265" />
+    <state width="936" height="259" key="GridCell.Tab.0.left" timestamp="1615033116265">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1256" height="260" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1608725186388" />
-    <state width="936" height="259" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614950910748" />
-    <state width="936" height="259" key="GridCell.Tab.0.right" timestamp="1614950910748">
+    <state width="936" height="259" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615033116265" />
+    <state width="936" height="259" key="GridCell.Tab.0.right" timestamp="1615033116265">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1256" height="260" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1608725186388" />
-    <state width="936" height="259" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614950910748" />
+    <state width="936" height="259" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615033116265" />
     <state width="1256" height="344" key="GridCell.Tab.1.bottom" timestamp="1607518727054">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
