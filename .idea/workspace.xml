@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5b353ad4-1167-4d9c-8f17-7559b767548a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/BAEKJOON/BOJ_10992_별찍기-17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/BAEKJOON/BOJ_10992_별찍기17.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
-  <component name="RunManager" selected="Python.BOJ_10991_별찍기16">
+  <component name="RunManager" selected="Python.BOJ_2440_별찍기3">
     <configuration name="BOJ_10953_A+B-6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_2442_별찍기5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ_2440_별찍기3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +108,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/BAEKJOON/BOJ_2442_별찍기5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/BAEKJOON/BOJ_2440_별찍기3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ_2440_별찍기3" />
         <item itemvalue="Python.BOJ_10991_별찍기16" />
         <item itemvalue="Python.BOJ_2523_별찍기13" />
         <item itemvalue="Python.BOJ_10992_별찍기17" />
         <item itemvalue="Python.BOJ_10953_A+B-6" />
-        <item itemvalue="Python.BOJ_2442_별찍기5" />
       </list>
     </recent_temporary>
   </component>
@@ -171,26 +170,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1162" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1615816831635" />
-    <state width="936" height="219" key="GridCell.Tab.0.bottom" timestamp="1616302468363">
+    <state width="936" height="219" key="GridCell.Tab.0.bottom" timestamp="1616418252967">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1256" height="260" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1608725186388" />
-    <state width="936" height="219" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616302468363" />
-    <state width="936" height="219" key="GridCell.Tab.0.center" timestamp="1616302468362">
+    <state width="936" height="219" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616418252967" />
+    <state width="936" height="219" key="GridCell.Tab.0.center" timestamp="1616418252967">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1256" height="260" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1608725186388" />
-    <state width="936" height="219" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616302468362" />
-    <state width="936" height="219" key="GridCell.Tab.0.left" timestamp="1616302468362">
+    <state width="936" height="219" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616418252967" />
+    <state width="936" height="219" key="GridCell.Tab.0.left" timestamp="1616418252967">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1256" height="260" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1608725186388" />
-    <state width="936" height="219" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616302468362" />
-    <state width="936" height="219" key="GridCell.Tab.0.right" timestamp="1616302468362">
+    <state width="936" height="219" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616418252967" />
+    <state width="936" height="219" key="GridCell.Tab.0.right" timestamp="1616418252967">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1256" height="260" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1608725186388" />
-    <state width="936" height="219" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616302468362" />
+    <state width="936" height="219" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616418252967" />
     <state width="936" height="343" key="GridCell.Tab.1.bottom" timestamp="1615906699128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
