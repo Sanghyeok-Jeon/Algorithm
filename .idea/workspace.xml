@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b353ad4-1167-4d9c-8f17-7559b767548a" name="Default Changelist" comment="" />
+    <list default="true" id="5b353ad4-1167-4d9c-8f17-7559b767548a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
-  <component name="RunManager" selected="Python.BOJ_10817_세수">
+  <component name="RunManager" selected="Python.BOJ_3046_R2">
     <configuration name="BOJ_10817_세수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -52,6 +54,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="BOJ_3046_R2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/BAEKJOON" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/BAEKJOON/BOJ_3046_R2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="BOJ_5532_방학숙제" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,27 +88,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/BAEKJOON/BOJ_5532_방학숙제.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BOJ_9933_민균이의비밀번호" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/BAEKJOON" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/BAEKJOON/BOJ_9933_민균이의비밀번호.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ_3046_R2" />
         <item itemvalue="Python.BOJ_10817_세수" />
         <item itemvalue="Python.OddOccurrencesInArray" />
         <item itemvalue="Python.BinaryGap" />
         <item itemvalue="Python.BOJ_5532_방학숙제" />
-        <item itemvalue="Python.BOJ_9933_민균이의비밀번호" />
       </list>
     </recent_temporary>
   </component>
@@ -164,9 +166,10 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.txt" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1162" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615816831635">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="1549" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1619272201118">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
+    <state x="1549" y="324" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1619272201118" />
     <state x="1162" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1615816831635" />
     <state width="1256" height="216" key="GridCell.Tab.0.bottom" timestamp="1618580819059">
       <screen x="0" y="0" width="1920" height="1040" />
