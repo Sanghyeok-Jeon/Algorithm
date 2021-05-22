@@ -33,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
-  <component name="RunManager" selected="Python.BOJ_2953_나는요리사다">
+  <component name="RunManager" selected="Python.BOJ_17072_아스키아트">
     <configuration name="BOJ_10886_0notcute1cute" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_20112_사토르마방진" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ_17072_아스키아트" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/BAEKJOON/BOJ_20112_사토르마방진.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/BAEKJOON/BOJ_17072_아스키아트.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ_17072_아스키아트" />
         <item itemvalue="Python.BOJ_2953_나는요리사다" />
         <item itemvalue="Python.BOJ_13235_팰린드롬" />
         <item itemvalue="Python.BOJ_3059_등장하지않는문자의합" />
         <item itemvalue="Python.BOJ_10886_0notcute1cute" />
-        <item itemvalue="Python.BOJ_20112_사토르마방진" />
       </list>
     </recent_temporary>
   </component>
@@ -172,25 +172,25 @@
     </state>
     <state x="1549" y="324" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1619272555326" />
     <state x="1162" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1615816831635" />
-    <state width="1256" height="213" key="GridCell.Tab.0.bottom" timestamp="1621510400704">
+    <state width="1256" height="213" key="GridCell.Tab.0.bottom" timestamp="1621602787360">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1256" height="213" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1621510400704" />
+    <state width="1256" height="213" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1621602787360" />
     <state width="1256" height="215" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621150554323" />
-    <state width="1256" height="213" key="GridCell.Tab.0.center" timestamp="1621510400704">
+    <state width="1256" height="213" key="GridCell.Tab.0.center" timestamp="1621602787360">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1256" height="213" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1621510400704" />
+    <state width="1256" height="213" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1621602787360" />
     <state width="1256" height="215" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621150554323" />
-    <state width="1256" height="213" key="GridCell.Tab.0.left" timestamp="1621510400704">
+    <state width="1256" height="213" key="GridCell.Tab.0.left" timestamp="1621602787360">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1256" height="213" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1621510400704" />
+    <state width="1256" height="213" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1621602787360" />
     <state width="1256" height="215" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621150554323" />
-    <state width="1256" height="213" key="GridCell.Tab.0.right" timestamp="1621510400704">
+    <state width="1256" height="213" key="GridCell.Tab.0.right" timestamp="1621602787360">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1256" height="213" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1621510400704" />
+    <state width="1256" height="213" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1621602787360" />
     <state width="1256" height="215" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621150554323" />
     <state width="1256" height="343" key="GridCell.Tab.1.bottom" timestamp="1620648641690">
       <screen x="0" y="0" width="2560" height="1040" />
