@@ -31,8 +31,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
-  <component name="RunManager" selected="Python.BOJ_9654_나부함대데이터">
-    <configuration name="BOJ_6749_NextInLine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.BOJ_10926_물음표물음표느낌표">
+    <configuration name="BOJ_10926_물음표물음표느낌표" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,7 +44,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/BAEKJOON/BOJ_6749_NextInLine.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/BAEKJOON/BOJ_10926_물음표물음표느낌표.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ_10926_물음표물음표느낌표" />
         <item itemvalue="Python.BOJ_9654_나부함대데이터" />
         <item itemvalue="Python.BOJ_9653_스타워즈로고" />
         <item itemvalue="Python.BOJ_8437_Julka" />
         <item itemvalue="Python.BOJ_8370_Plane" />
-        <item itemvalue="Python.BOJ_6749_NextInLine" />
       </list>
     </recent_temporary>
   </component>
