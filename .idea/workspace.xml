@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b353ad4-1167-4d9c-8f17-7559b767548a" name="Default Changelist" comment="" />
+    <list default="true" id="5b353ad4-1167-4d9c-8f17-7559b767548a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +33,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
-  <component name="RunManager" selected="Python.BOJ_15733_나는누구인가">
+  <component name="RunManager" selected="Python.BOJ_15727_조별과제를하려는데조장이사라졌다">
+    <configuration name="BOJ_15727_조별과제를하려는데조장이사라졌다" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/BAEKJOON" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/BAEKJOON/BOJ_15727_조별과제를하려는데조장이사라졌다.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="BOJ_15733_나는누구인가" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,34 +139,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_17295_엔드게임스포일러" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/BAEKJOON" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/BAEKJOON/BOJ_17295_엔드게임스포일러.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ_15727_조별과제를하려는데조장이사라졌다" />
         <item itemvalue="Python.BOJ_15733_나는누구인가" />
         <item itemvalue="Python.BOJ_15964_이상한기호" />
         <item itemvalue="Python.BOJ_16394_홍익대학교" />
         <item itemvalue="Python.BOJ_17256_달달함이넘쳐흘러" />
-        <item itemvalue="Python.BOJ_17295_엔드게임스포일러" />
       </list>
     </recent_temporary>
   </component>
@@ -169,26 +171,26 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1549" y="324" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1619272555326" />
-    <state width="1256" height="211" key="GridCell.Tab.0.bottom" timestamp="1625881591306">
+    <state width="1256" height="211" key="GridCell.Tab.0.bottom" timestamp="1625881686227">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1256" height="211" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1625741016555" />
-    <state width="1256" height="211" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625881591306" />
-    <state width="1256" height="211" key="GridCell.Tab.0.center" timestamp="1625881591306">
+    <state width="1256" height="211" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625881686227" />
+    <state width="1256" height="211" key="GridCell.Tab.0.center" timestamp="1625881686227">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1256" height="211" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1625741016555" />
-    <state width="1256" height="211" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625881591306" />
-    <state width="1256" height="211" key="GridCell.Tab.0.left" timestamp="1625881591306">
+    <state width="1256" height="211" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625881686227" />
+    <state width="1256" height="211" key="GridCell.Tab.0.left" timestamp="1625881686227">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1256" height="211" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1625741016555" />
-    <state width="1256" height="211" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625881591306" />
-    <state width="1256" height="211" key="GridCell.Tab.0.right" timestamp="1625881591306">
+    <state width="1256" height="211" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625881686227" />
+    <state width="1256" height="211" key="GridCell.Tab.0.right" timestamp="1625881686227">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1256" height="211" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1625741016555" />
-    <state width="1256" height="211" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625881591306" />
+    <state width="1256" height="211" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625881686227" />
     <state width="1256" height="343" key="GridCell.Tab.1.bottom" timestamp="1625141165363">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
