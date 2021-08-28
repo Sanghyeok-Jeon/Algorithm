@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b353ad4-1167-4d9c-8f17-7559b767548a" name="Default Changelist" comment="" />
+    <list default="true" id="5b353ad4-1167-4d9c-8f17-7559b767548a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
-  <component name="RunManager" selected="Python.BOJ_11023_더하기3">
+  <component name="RunManager" selected="Python.BOJ_16479_컵라면측정하기">
     <configuration name="BOJ_11023_더하기3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_15727_조별과제를하려는데조장이사라졌다" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ_16479_컵라면측정하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/BAEKJOON/BOJ_15727_조별과제를하려는데조장이사라졌다.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/BAEKJOON/BOJ_16479_컵라면측정하기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ_16479_컵라면측정하기" />
         <item itemvalue="Python.BOJ_11023_더하기3" />
         <item itemvalue="Python.BOJ_2480_주사위세개" />
         <item itemvalue="Python.BOJ_2420_사파리월드" />
         <item itemvalue="Python.BOJ_15439_VeraandOutfits" />
-        <item itemvalue="Python.BOJ_15727_조별과제를하려는데조장이사라졌다" />
       </list>
     </recent_temporary>
   </component>
@@ -163,52 +165,6 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.txt" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1549" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1619272555326">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state x="1549" y="324" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1619272555326" />
-    <state width="1256" height="210" key="GridCell.Tab.0.bottom" timestamp="1626098283583">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state width="1256" height="210" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1626098283583" />
-    <state width="1696" height="305" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1625930517460" />
-    <state width="1256" height="211" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625882466111" />
-    <state width="1256" height="210" key="GridCell.Tab.0.center" timestamp="1626098283583">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state width="1256" height="210" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1626098283583" />
-    <state width="1696" height="305" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1625930517460" />
-    <state width="1256" height="211" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625882466111" />
-    <state width="1256" height="210" key="GridCell.Tab.0.left" timestamp="1626098283583">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state width="1256" height="210" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1626098283583" />
-    <state width="1696" height="305" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1625930517460" />
-    <state width="1256" height="211" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625882466111" />
-    <state width="1256" height="210" key="GridCell.Tab.0.right" timestamp="1626098283583">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state width="1256" height="210" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1626098283583" />
-    <state width="1696" height="305" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1625930517460" />
-    <state width="1256" height="211" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625882466111" />
-    <state width="1256" height="343" key="GridCell.Tab.1.bottom" timestamp="1625141165363">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state width="1256" height="343" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1625141165363" />
-    <state width="1256" height="343" key="GridCell.Tab.1.center" timestamp="1625141165363">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state width="1256" height="343" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1625141165363" />
-    <state width="1256" height="343" key="GridCell.Tab.1.left" timestamp="1625141165363">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state width="1256" height="343" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1625141165363" />
-    <state width="1256" height="343" key="GridCell.Tab.1.right" timestamp="1625141165363">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state width="1256" height="343" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1625141165363" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
