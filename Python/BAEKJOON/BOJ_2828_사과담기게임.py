@@ -9,7 +9,7 @@ right = left + basket
 answer = 0
 for ap in apple:
     if ap < left:
-       answer +=  left - ap
+       answer += left - ap
        left, right = ap, ap + basket
     elif ap > right:
         answer += ap - right
