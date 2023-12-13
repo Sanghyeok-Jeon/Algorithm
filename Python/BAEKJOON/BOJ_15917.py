@@ -1,5 +1,8 @@
-twos = [2**i for i in range(0, 32)]
-Q = int(input())
+import sys
+Q = int(sys.stdin.readline())
 for _ in range(Q):
-    a = int(input())
-    print(1 if a in twos else 0)
+    a = int(sys.stdin.readline())
+    if a & (-a) == a:
+        print(1)
+    else:
+        print(0)
