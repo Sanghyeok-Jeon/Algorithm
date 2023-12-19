@@ -1,6 +1,3 @@
-import sys
-sys.stdin = open('BOJ_9465.txt', 'r')
-
 T = int(input())
 for tc in range(T):
     n = int(input())
@@ -10,7 +7,7 @@ for tc in range(T):
     dp[1][0] = data[1][0]
 
     for i in range(1, n):
-        if n == 1:
+        if i == 1:
             dp[0][1] = data[1][0] + data[0][1]
             dp[1][1] = data[0][0] + data[1][1]
         else:
